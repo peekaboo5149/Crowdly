@@ -1,5 +1,6 @@
-import 'text_field_wrapper.dart';
 import 'package:flutter/material.dart';
+
+import 'text_field_wrapper.dart';
 
 class EmailTextField extends StatelessWidget {
   @override

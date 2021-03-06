@@ -1,5 +1,6 @@
-import '../../../config/constants.dart';
 import 'package:flutter/material.dart';
+
+import '../../../config/constants.dart';
 
 class SubmitInputButton extends StatelessWidget {
   final VoidCallback onTap;
