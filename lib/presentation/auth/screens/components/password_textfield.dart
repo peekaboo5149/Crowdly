@@ -15,7 +15,7 @@ class PasswordTextField extends StatelessWidget {
             border: InputBorder.none,
             prefixIcon: const Icon(Icons.lock),
             suffixIcon: IconButton(
-                icon: _notifier.value
+                icon: !_notifier.value
                     ? const Icon(Icons.visibility)
                     : const Icon(Icons.visibility_off),
                 onPressed: () {
