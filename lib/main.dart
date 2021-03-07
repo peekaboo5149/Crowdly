@@ -1,3 +1,4 @@
+import 'package:crowdly/presentation/auth/screens/login_screen.dart';
 import 'package:flutter/material.dart';
 
 import 'presentation/home/home_screen.dart';
@@ -20,6 +21,6 @@ class MyApp extends StatelessWidget {
           ),
           primarySwatch: Colors.blue,
         ),
-        home: HomeScreen());
+        home: LoginScreen());
   }
 }
