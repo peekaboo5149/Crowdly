@@ -1,6 +1,6 @@
-import '../../config/constants.dart';
 import 'package:flutter/material.dart';
 
+import '../../config/constants.dart';
 import 'components/custom_search_field.dart';
 
 part 'customappbar_slivertype.dart';
