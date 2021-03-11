@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38534535992",
+    "project_id": "crowdly-27210",
+    "storage_bucket": "crowdly-27210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38534535992:android:70d19f8922f2ce4c607fcd",
+        "android_client_info": {
+          "package_name": "com.example.crowdly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38534535992-k2p5sitek8erfke0b6bb6f7bq8052ind.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3cNG9hetUH8dXhSr90nrlNTNc3V_g90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38534535992-k2p5sitek8erfke0b6bb6f7bq8052ind.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -15,7 +15,9 @@ class HomeScreen extends StatelessWidget {
         slivers: [
           _CustomAppBarSliverType(
             title: "Crowdly",
-            settingsfunction: () {},
+            settingsfunction: () {
+              //Log out button for now
+            },
           ),
           CustomSearchField(size: size),
         ],
