@@ -1,6 +1,7 @@
-import 'package:crowdly/infrastructure/auth/auth_success_error.dart';
-import 'package:crowdly/infrastructure/core/error/auth_failure.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+
+import '../core/error/auth_failure.dart';
+import 'auth_success_error.dart';
 
 class AuthService {
   static FirebaseAuth get _auth => FirebaseAuth.instance;

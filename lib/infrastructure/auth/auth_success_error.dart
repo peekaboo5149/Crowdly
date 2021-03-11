@@ -1,4 +1,4 @@
-import 'package:crowdly/infrastructure/core/error/auth_failure.dart';
+import '../core/error/auth_failure.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 class AuthSuccesorFailure {
